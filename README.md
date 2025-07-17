@@ -1,4 +1,4 @@
-## 👋 Hi, I'm Muduchuru Sujith
+I'm Muduchuru Sujith
 
 🎓 Final-year student at Sathyabama University  
 💻 Passionate about Java & Web Technologies  
