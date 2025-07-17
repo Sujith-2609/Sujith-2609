@@ -1,16 +1,24 @@
-## Hi there 👋
+## 👋 Hi, I'm Muduchuru Sujith
 
-<!--
-**Sujith-2609/Sujith-2609** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Final-year student at Sathyabama University  
+💻 Passionate about Java & Web Technologies  
+🚀 Currently building full-stack apps using the **MERN stack**  
+📚 Exploring DevOps, Cloud, and Open Source  
+🤝 Open to internships, open-source projects & tech collaborations
 
-Here are some ideas to get you started:
+### 🛠 Tech Stack
+- **Languages:** Java, JavaScript
+- **Frontend:** HTML, CSS, React.js
+- **Backend:** Node.js, Express.js
+- **Database:** MySQL
+- **Tools:** Git, GitHub, Postman, VS Code
+- **Other:** WordPress, Firebase (Basics)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📈 GitHub Stats
+![Sujith's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sujith-2609&show_icons=true&theme=radical)
+
+### 📫 Connect with Me
+- 🔗 [LinkedIn](https://www.linkedin.com/in/muduchurusujith/)
+- 💻 [GitHub](https://github.com/Sujith-2609)
+- 📧 muduchurusujith@gmail.com
+
